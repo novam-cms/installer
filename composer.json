@@ -1,0 +1,16 @@
+{
+    "name": "novam-cms/installer",
+    "description": "Installation package for the Novam CMS app",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "^5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hilkiah Makemo",
+            "email": "hilmak01@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
